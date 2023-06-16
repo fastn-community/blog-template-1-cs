@@ -39,7 +39,7 @@ light: #221429
 dark: #D9D9D9
 
 -- ftd.color text-strong-:
-light: #fffff
+light: #ffffff
 dark: #000000
 
 -- ftd.color shadow-:
